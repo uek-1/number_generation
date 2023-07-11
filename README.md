@@ -8,5 +8,5 @@ so far, the results are not very good. there is a lot of noise caused by the los
 
 ### example.
 with target number = 2 over 200 iterations:
-<img src = "https://raw.githubusercontent.com/uek-1/number_generation/examples/2.gif">
+<img height = "28" width = "28" src = "https://raw.githubusercontent.com/uek-1/number_generation/main/examples/2.gif">
 
